@@ -1,1 +1,1 @@
-# discord
+Script for automatic posting to the Discord branch of faucet
